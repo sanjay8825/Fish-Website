@@ -1,0 +1,29 @@
+#navbar
+{
+  padding:10px;
+  background-color: lightblue;
+}
+#navbar .navbar-brand{
+  font-size:1.875em;
+  font-weight:bold;
+}
+#navbar .navbar-nav li a{
+  font-size: 1.275em;
+  color: black;
+}
+#navbar .navbar-nav li a:hover{
+  color: black;
+  border-bottom:1px solid blue
+}
+.carousel-inner h5{
+  font-weight:bold;
+  color: yellow;
+}
+.carousel-inner h6{
+  font-weight:bold;
+  color: yellow;
+}
+.carousel-inner h3{
+  font-weight:bold;
+  color: yellow;
+}
